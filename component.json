@@ -1,0 +1,15 @@
+{
+  "name": "editable-checkbox",
+  "repo": "componitable/editable-checkbox",
+  "description": "Lets you make check-boxes support the same api as other inline editable components",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/emitter": "*",
+    "componitable/editable": "*"
+  },
+  "development": {},
+  "scripts": [
+    "index.js"
+  ]
+}
