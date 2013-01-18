@@ -6,7 +6,8 @@
   "keywords": [],
   "dependencies": {
     "component/emitter": "*",
-    "componitable/editable": "*"
+    "componitable/editable": "*",
+    "component/matches-selector": "*"
   },
   "development": {},
   "scripts": [

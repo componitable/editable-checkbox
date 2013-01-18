@@ -1,5 +1,6 @@
 var emitter = require('emitter');
 var editable = require('editable');
+var matchesSelector = require('matches-selector');
 
 module.exports = makeEditable;
 function makeEditable(elements, options) {
